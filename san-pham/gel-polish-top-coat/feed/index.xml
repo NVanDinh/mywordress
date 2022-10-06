@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Gel Polish Top Coat	</title>
+	<atom:link href="http://localhost/myproject/wordpress/san-pham/gel-polish-top-coat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nvandinh.github.io/mywordress/san-pham/gel-polish-top-coat/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 06 Oct 2022 14:43:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		Bởi: user1		</title>
+		<link>https://nvandinh.github.io/mywordress/san-pham/gel-polish-top-coat/#comment-4</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 14:36:44 +0000</pubDate>
+		<guid isPermaLink="false">https://nvandinh.github.io/mywordress/?post_type=product&#038;p=304#comment-4</guid>
+
+					<description><![CDATA[Love this one! I feel like a Renaissance painter in it. Can’t wait for warmer weather to fully enjoy it.
+Yes,I recommend this product!]]></description>
+			<content:encoded><![CDATA[<p>Love this one! I feel like a Renaissance painter in it. Can’t wait for warmer weather to fully enjoy it.<br />
+Yes,I recommend this product!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: user1		</title>
+		<link>https://nvandinh.github.io/mywordress/san-pham/gel-polish-top-coat/#comment-3</link>
+
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 14:36:31 +0000</pubDate>
+		<guid isPermaLink="false">https://nvandinh.github.io/mywordress/?post_type=product&#038;p=304#comment-3</guid>
+
+					<description><![CDATA[Love this one! I feel like a Renaissance painter in it. Can’t wait for warmer weather to fully enjoy it.
+Yes,I recommend this product]]></description>
+			<content:encoded><![CDATA[<p>Love this one! I feel like a Renaissance painter in it. Can’t wait for warmer weather to fully enjoy it.<br />
+Yes,I recommend this product</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
