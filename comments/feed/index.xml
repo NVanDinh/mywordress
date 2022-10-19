@@ -11,12 +11,12 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nvandinh.github.io/mywordress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 06 Oct 2022 14:51:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 14:32:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
 		Phản hồi cho Envy Regal Clipper bởi user1		</title>
@@ -83,7 +83,7 @@ Yes,I recommend this product</p>
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Gel Polish Top Coat bởi user1		</title>
+		Phản hồi cho Gel Polish Top Coat BT bởi user1		</title>
 		<link>https://nvandinh.github.io/mywordress/san-pham/gel-polish-top-coat/#comment-4</link>
 
 		<dc:creator><![CDATA[user1]]></dc:creator>
@@ -99,7 +99,7 @@ Yes,I recommend this product!</p>
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Gel Polish Top Coat bởi user1		</title>
+		Phản hồi cho Gel Polish Top Coat BT bởi user1		</title>
 		<link>https://nvandinh.github.io/mywordress/san-pham/gel-polish-top-coat/#comment-3</link>
 
 		<dc:creator><![CDATA[user1]]></dc:creator>
@@ -110,24 +110,6 @@ Yes,I recommend this product!</p>
 Yes,I recommend this product]]></description>
 			<content:encoded><![CDATA[<p>Love this one! I feel like a Renaissance painter in it. Can’t wait for warmer weather to fully enjoy it.<br />
 Yes,I recommend this product</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://nvandinh.github.io/mywordress/2022/08/31/chao-moi-nguoi/#comment-1</link>
-
-		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Wed, 31 Aug 2022 02:49:33 +0000</pubDate>
-		<guid isPermaLink="false">https://nvandinh.github.io/mywordress/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>
